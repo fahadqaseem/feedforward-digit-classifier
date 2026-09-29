@@ -1,0 +1,10 @@
+Homework 2
+Instruction: Try to design a feed forward neural network for handwritten digits classification.
+Prepare a pdf document to report your homework containing the following information in two weeks.
+Show your network architecture like the figure below
+Show your code
+Show the training and testing information
+Show the test results
+Some available example:
+Tensorflow: https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/neural_network_raw.ipynb
+Pytorch: https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/01-basics/feedforward_neural_network/main.py#L37-L49

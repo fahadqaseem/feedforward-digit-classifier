@@ -1,0 +1,27 @@
+# Homework 2: Feedforward Digit Classifier
+
+## Objective
+
+Design a **feedforward neural network** for handwritten-digit classification.
+
+## Deliverable
+
+Prepare a **PDF report** documenting your homework. The report is due in **two weeks** and should include the following:
+
+## Report Requirements
+
+- [ ] **Network architecture**
+	- Illustrate your network architecture, following the provided figure as a reference.
+- [ ] **Source code**
+	- Include the code used to build and train your model.
+- [ ] **Training and testing information**
+	- Describe the training setup and evaluation process.
+- [ ] **Test results**
+	- Present and discuss the results of your model on the test set.
+
+## Helpful Examples
+
+The following implementations may help you get started:
+
+- **TensorFlow:** [Feedforward neural network example](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/neural_network_raw.ipynb)
+- **PyTorch:** [Feedforward neural network example](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/01-basics/feedforward_neural_network/main.py#L37-L49)
